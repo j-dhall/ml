@@ -10,6 +10,8 @@ https://machinelearningmastery.com/define-encoder-decoder-sequence-sequence-mode
 
 
 ```python
-<img src="/assets/images/query.jpg" alt="">
+<img src="/assets/images/query.jpg" alt=""> - didn't work
+<img src="{{site.baseurl}}/assets/images/query.jpg"> - testing
 ```
 ![image](/assets/images/query.jpg)
+<img src="{{site.baseurl}}/assets/images/query.jpg">
