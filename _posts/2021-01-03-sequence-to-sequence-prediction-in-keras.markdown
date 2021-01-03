@@ -12,4 +12,4 @@ https://machinelearningmastery.com/define-encoder-decoder-sequence-sequence-mode
 ```python
 
 ```
-<img src="../assets/images/query.jpg" alt="">
+<img src="/assets/images/query.jpg" alt="">
