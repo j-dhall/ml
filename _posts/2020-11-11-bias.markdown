@@ -25,6 +25,29 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
+```C++
+#include "markdown-parser.hpp"
+
+int main(int argc, const char* argv[])
+{
+	// Main interface
+	Markdown::Parser parser;
+
+	// Flexible key-value configuration
+	parser.configure("markdown-style", "solarized-dark");
+
+	// Quick and easy snippet-conversion, returns HTML as std::string
+	// <p><em>hello</em></p>
+	auto snippet = parser.snippet("*hello*");
+
+	// 65 possible styles (using highlight.js)
+	parser.configure("code-style", "monokai");
+
+	// Full file rendering
+	parser.render_file("input.md", "output.html");
+}
+```
+
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
