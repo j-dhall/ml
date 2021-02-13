@@ -1,4 +1,5 @@
 ![png]({{site.baseurl}}/assets/images/output_46_0.png)
+![jpg]({{site.baseurl}}/assets/images/query.jpg)
 
 ### Imports
 
