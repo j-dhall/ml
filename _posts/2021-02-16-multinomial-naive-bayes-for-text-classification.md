@@ -6,7 +6,7 @@ categories:
 ---
 
 
-## <font color=orange>Naive Bayes with Bag-of-Words for Text Classification</font>
+## <font color=orange>Multinomial Naive Bayes for Text Classification</font>
 #### Introduction to Information Retrieval - Manning
 url: https://nlp.stanford.edu/IR-book/html/htmledition/naive-bayes-text-classification-1.html
 
