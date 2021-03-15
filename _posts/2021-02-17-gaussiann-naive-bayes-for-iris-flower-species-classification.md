@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gaussian Naive Bayes for Iris Flower Species Classification"
+title: "Iris Flower Species Classification using Gaussian Naive Bayes"
 date: 2021-02-17 21:55:59 +0530
 categories:
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gaussian Naive Bayes for MNIST Digits Classification"
+title: "MNIST Digits Classification using Gaussian Naive Bayes"
 date: 2021-02-19 14:00:59 +0530
 categories:
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Logistic Regression for Binary Classification of Demo Data"
+title: "Binary Classification using Logistic Regression"
 date: 2021-02-22 15:03:59 +0530
 categories:
 ---

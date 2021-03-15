@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Multinomial Naive Bayes for Text Classification"
+title: "Text Classification using Multinomial Naive Bayes"
 date: 2021-02-16 16:30:59 +0530
 categories:
 ---
