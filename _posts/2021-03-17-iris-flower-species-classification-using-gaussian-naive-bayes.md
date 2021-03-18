@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[without library] Iris Flower Species Classification using Gaussian Naive Bayes"
-date: 2021-03-17 22:32:59 +0530
+date: 2021-02-15 20:32:59 +0530
 categories:
 ---
 
@@ -73,7 +73,7 @@ In summary, Naive Bayes is:
 
 > Why Naive?
 
-Naive Bayes makes an assumption that the input attributes are independent of each other. This results in a <font color=blue>significant reduction in the number of parameters</font> the model needs to learn. This is because, since each attribute is assumed to be influenced only by the class its data poin belongs to, the model only has P(X_i\|Y_k) terms, and no P(X_i\|X_j), P(X_i\|X_j, X_k), etc terms. This is the reason the model is called '<font color=blue>Naive</font>' because it is seldom the case that the input attributes do not influence each other. Still, Naive Bayes has proven to be effective.
+Naive Bayes makes an assumption that the input attributes are independent of each other. This results in a <font color=blue>significant reduction in the number of parameters</font> the model needs to learn. This is because, since each attribute is assumed to be influenced only by the class its data point belongs to, the model only has P(X_i\|Y_k) terms, and no P(X_i\|X_j), P(X_i\|X_j, X_k), etc terms. This is the reason the model is called '<font color=blue>Naive</font>' because it is seldom the case that the input attributes do not influence each other. Still, Naive Bayes has proven to be effective.
 
 Due to the modeling assumptions of attributes being independent, Naive Bayes model introduces <font color=red>a lot more inductive bias</font> as compared to Logistic Regression. This also results in  <font color=green>faster convergence</font> of order O(log N) (N is the number of data points). The fast convergence can perhaps be on  <font color=red>less accurate</font> estimates.
 

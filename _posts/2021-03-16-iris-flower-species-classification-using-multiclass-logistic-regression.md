@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[without library] Iris Flower Species Classification using Multiclass Logistic Regression"
-date: 2021-03-16 21:52:59 +0530
+date: 2021-02-23 21:52:59 +0530
 categories:
 ---
 

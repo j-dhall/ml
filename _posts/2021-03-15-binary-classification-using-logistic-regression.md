@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[without library] Binary Classification using Logistic Regression"
-date: 2021-03-15 19:57:59 +0530
+date: 2021-02-18 19:57:59 +0530
 categories:
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Text Classification using Multinomial Naive Bayes"
-date: 2021-02-16 16:30:59 +0530
+date: 2021-02-01 16:30:59 +0530
 categories:
 ---
 
