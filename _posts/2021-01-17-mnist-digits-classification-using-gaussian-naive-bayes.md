@@ -139,7 +139,7 @@ visualize(m, n, x_train, sample(range(x_train.shape[0]), m*n))
 
 
     
-![png]({{site.baseurl}}/assets/images/minst-gnb/output_18_0.png)
+![png]({{site.baseurl}}/assets/images/mnist-gnb/output_18_0.png)
     
 
 
@@ -151,7 +151,7 @@ visualize(m, n, x_train, sample(range(x_train.shape[0]), m*n))
 
 
 ```python
-<img src="{{site.baseurl}}/assets/images/minst-gnb/gnb_mean_std.png">'''
+<img src="{{site.baseurl}}/assets/images/mnist-gnb/gnb_mean_std.png">'''
     return
             classes: (list) of unique class names in the dataset,
              got from the last column named class_colname.
@@ -289,7 +289,7 @@ visualize(m, n, X_mean, [i for i in range(m*n)])
 
 
     
-![png]({{site.baseurl}}/assets/images/minst-gnb/output_34_0.png)
+![png]({{site.baseurl}}/assets/images/mnist-gnb/output_34_0.png)
     
 
 
@@ -303,7 +303,7 @@ visualize(m, n, X_std, [i for i in range(m*n)])
 
 
     
-![png]({{site.baseurl}}/assets/images/minst-gnb/output_36_0.png)
+![png]({{site.baseurl}}/assets/images/mnist-gnb/output_36_0.png)
     
 
 
