@@ -1,0 +1,42 @@
+{
+	"data": {
+		"datasets-dir": "..\\input",
+		"datasets": {
+			"titanic" : {
+				"dir":"titanic",
+				"files":{
+					"train":"train.csv",
+					"test":"test.csv"
+					}
+				},
+			"boston-housing": {
+				"dir":"boston-housing",
+				"files":{
+					"train":"train.csv",
+					"test":"test.csv"
+					}
+				},
+			"iris": {
+				"dir":"iris-species",
+				"files":{
+					"train":"Iris.csv",
+					"test":"Iris.csv"
+					}
+				},
+			"tips": {
+				"dir":"tips",
+				"files":{
+					"train":"tips.csv",
+					"test":"tips.csv"
+					}
+				},
+			"hotel-reviews": {
+				"dir":"hotel-reviews",
+				"files":{
+					"train":"reviews_data.txt",
+					"test":"reviews_data.txt"
+					}
+				}
+			}
+		}
+}
